@@ -94,7 +94,7 @@
                             <br/><br/>
                             <br/><br/>
                           
-                            <b>Contactos: </b>
+                            <b>Contactos: Esto es el ejmoplo </b>
                             
                           </p>               
                          
