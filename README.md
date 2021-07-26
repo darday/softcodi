@@ -7,3 +7,6 @@ para que el proyecto funcione deben hacer lo siguiente:
 
 
 5.-En el archivo .env se trabajara con la base de datos softcodi
+6.- Antes de Subir cualquier Cambio verificar que esta en su rama correspondiente
+
+
