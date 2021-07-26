@@ -94,7 +94,7 @@
                             <br/><br/>
                             <br/><br/>
                           
-                            <b>Contactos: 0961119670 - 095300403 </b>
+                            <b>Contactos: 0961119670 - 095300403 - 0984111628</b>
                             
                           </p>               
                          
@@ -102,8 +102,8 @@
                         <div class=" col-sm-12 col-md-6">
                           <br/>
                           
-                          <img src="/assets/img/contability/asesoria2.jpg" class="card-img-top img-fluid"  alt="...">
-
+                          <img src="assets/img/contability/asesoria2.jpg" class="card-img-top img-fluid"  alt="...">
+                         
                         </div>
                       </div>
                     </div>
