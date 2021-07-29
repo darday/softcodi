@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ContabilityController;
+use App\Http\Controllers\DevelopmentController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -19,5 +20,6 @@ Route::get('/', function () {
 });
 
 Route::get('/contabilidad', [ContabilityController::class, 'index'])->name('contability');
+Route::get('/desarrollo-web', [DevelopmentController::class, 'index'])->name('web_pages');
 
 
