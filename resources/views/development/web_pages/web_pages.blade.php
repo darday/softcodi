@@ -14,6 +14,10 @@
 
         <!-- FIN BOOTSTRAP 5 -->
         
+        {{-- Fafa icons --}}
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+
+
         
         <!-- Importa Stilos -->
         <link rel="stylesheet" href="css/style.css">
@@ -66,139 +70,136 @@
         </style>
     </head>
     <body >
-            <div>
-                @include('components/navbar/navbar')            
-            </div>
+      <div>
+          @include('components/navbar/navbar')            
+      </div>
 
-            <div class="header-tit" style="background-image: url('assets/img/carousel/contabilidad2.jpg') ">
-                <div style=" width:100%; height:70vh; background-color:rgba(43, 39, 39, 0.397)" >
-                    <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >CONTABILIDAD SOFTCODI<br></div>
-                </div>
-            </div>
+      <div class="header-tit" style="background-image: url('assets/img/carousel/contabilidad2.jpg') ">
+          <div style=" width:100%; height:70vh; background-color:rgba(43, 39, 39, 0.397)" >
+              <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >DESARROLLO SOFTCODI<br></div>
+          </div>
+      </div>
 
-            <div class=" text-center container" style="padding-top:5vh; border:5px ">
-                <div class="div text-center" style="; padding-bottom: 9vh">
-                    <div class="row " style=" text-align:center">
+      <div class=" text-center container" style="padding-top:5vh; border:5px ">
+          <div class="div text-center" style="; padding-bottom: 9vh">
+              <div class="row " style=" text-align:center">
 
-                      <hr/>
-                      <h1 class="titulo" style="color: Black">ASESORES CONTABLES Y TRIBUTARIOS</h1>
-                      <p style="margin-top: -2vh"><b>Luis Yumiseba - Jhon Santos Especialistas Contables</b></p>
-                      
-                    </div>
-                  
-                    <div class="container" style="width: 85%">
-                      <div class="row" >
-                        <div class=" col-sm-12 col-md-6 " style="display:flex; align-items:center;justify-content: center;">
-                          <p>
-                            Nuestros servicio de asesoria contable y tributaria, con presencia en el centro del país, cuenta con técnicos de alta experiencia en las diferentes áreas, lo que garantiza a nuestros clientes, no solo el trato profesional y personalizado, sino que les ofrece la seguridad de contar con el apoyo de especialistas.
-                            <br/><br/>
-                            <br/><br/>
-                          
-                            <b>Contactos: Esto es el ejmoplo </b>
-                            
-                          </p>               
-                         
-                          </div>
-                        <div class=" col-sm-12 col-md-6">
-                          <br/>
-                          
-                          <img src="assets/img/contability/asesoria2.jpg" class="card-img-top img-fluid"  alt="...">
-                         
-                        </div>
-                      </div>
-                    </div>
-                </div>
-
-                <br/>
-                <div class="container" style="padding-top:5vh">
-                  <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:white">NUESTROS SERVICIOS</h1>
-                </div>
-
-                <div class="container" style="padding-top: 5vh">
-                    <div class="card-group">
-                      
-                        <div class="card">
-                          <a href="#">
-                          <img src="/assets/img/contability/declaracionmensual.png" class="card-img-top img-fluid"  alt="...">
-                          <div class="card-body">
-                            <h2 class="bebas card-title">DECLARACIONES MENSUALES SEMESTRALES Y ANUALES</h2>
-                          
-                          </div>
-                          </a>
-                        </div>
-                        <div class="card">
-                          <a href="#">
-                          <img src="/assets/img/contability/gastospersonales.jpg" class="card-img-top img-fluid" alt="...">
-                          <div class="card-body">
-                            <h2 class="bebas card-title">DECLARACIÓN DE GASTOS PERSONALES</h2>
-
-                          </div>
-                          </a>
-                        </div>
-                        <div class="card">
-                          <a href="#">
-                          <img src="/assets/img/contability/asesoria.png" class="card-img-top img-fluid" alt="...">
-                          <div class="card-body">
-                            <h2 class="bebas card-title">AESORIA CONTABLE Y TRIBUTARIA</h2>
-
-                          </div>
-                          </a>
-                        </div>
-                      </div>
-                    <div class="card-group">
-                        <div class="card">
-                          <a href="#">
-                          <img src="/assets/img/contability/iess.png" class="card-img-top" alt="...">
-                          <div class="card-body">
-                            <h2 class="bebas card-title">TRAMITES IESS MINISTERIO DE TRABAJO</h2>
-                          
-                          </div>
-                          </a>
-                        </div>
-                        <div class="card">
-                          <a href="#">
-                          <img src="/assets/img/contability/sistema.png" class="card-img-top" alt="...">
-                          <div class="card-body">
-                            <h2 class="bebas card-title">SISTEMA CONTABLE</h2>
-
-                          </div>
-                          </a>
-                        </div>
-                        <div class="card">
-                          <a href="#">
-                          <img src="/assets/img/contability/inventario.png" class="card-img-top" alt="...">
-                          <div class="card-body">
-                            <h2 class="bebas card-title">SISTEMA DE INVENTARIO</h2>
-
-                          </div>
-                          </a>
-                        </div>
-                        
-                      </div>
-                    
-                </div>
+                <hr/>
+                <h1 class="titulo" style="color: Black">DESARROLLO DE SISTEMAS, PÁGINAS WEB Y APLICACIONES MÓVILES</h1>
+                <p style="margin-top: -2vh"><b>Darío Janeta - David Paca especialistas en desarrollo</b></p>
                 
-
-            </div>
+              </div>
             
-          <br/>
-          <br/>
-
-          <div>
-            @include('components/footer/footer')
+              <div class="container" style="width: 85%">
+                <div class="row" >
+                  <div class=" col-sm-12 col-md-6 " style="display:flex; align-items:center;justify-content: center;">
+                    <p>
+                      En la actualidad, un negocio que no se encuentra en Internet es como si no existiera, así de simple. Por eso es vital que tu empresa este presente en Internet y tenga una página web, para que tus clientes o futuros clientes estén siempre informados. 
+                      Además una página web Es la primera imagen que el cliente se lleva de tu negocio. Está demostrado que un cliente que está comparando en varias empresas, escogerá a la empresa que tiene presencia online ya que transmite más prestigio y calidad.
+                      <br/><br/>
+                      <br/>
+                    
+                      <b>Contactos: 0961119670 -  </b>
+                      
+                    </p>               
+                    
+                    </div>
+                  <div class=" col-sm-12 col-md-6">
+                    <br/>
+                    
+                    <img src="assets/img/development/pagina-web.png" class="rounded  card-img-top img-fluid"  alt="..." >
+                    
+                  </div>
+                </div>
+              </div>
           </div>
 
+    
+        
+          
+
+      </div>
+
+      {{-- NUESTRO SERVICIOS --}}
+
+      <div class="container text-center">
+
+        <div class="container" style="padding-top:5vh">
+          <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:white">NUESTROS SERVICIOS</h1>
+        </div>
+
+        <div class="container" style="padding-top: 5vh">
+          <div class="row row-cols-1 row-cols-md-4 g-4">
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+                <i class="fas fa-laptop fa-7x"></i>
+                <div class="card-body">
+                  
+                  <h5 class="card-title">Páginas web</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+                <i class="fas fa-code fa-7x"></i>
+                <div class="card-body">
+                  <h5 class="card-title">Desarrollo de software</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+                <i class="fas fa-shopping-cart fa-7x"></i>                        <div class="card-body">
+                  <h5 class="card-title">Desarrollo de E-commerce</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+                <i class="fas fa-mobile-alt fa-7x"></i>
+                <div class="card-body">
+                  <h5 class="card-title">Desarrollo de Apps</h5>
+                </div>
+              </div>
+            </div>
+          </div>            
+        </div>
+        <br/>
+        <button type="button" class="btn btn-secondary btn-lg">Ver soluciones</button>
+
+      </div>
+
+      {{-- FIN DE NUESTROS SERVICIOS --}}
+
+      {{-- NUESTROS PRECIOS --}}
+
+      <br/>
+      <br/>
+      <div class="container text-center">
+        <div class="container" style="padding-top:5vh">
+          <h1 class="bebas" style="background-color: #; padding-top:2vh; padding-bottom:2vh ; color:Black">NUESTROS PRECIOS</h1>
+          <hr/>
+        </div>
+      </div>
+      
+      <br/>
+      <br/>
+
+      <div>
+        @include('components/footer/footer')
+      </div>
 
 
-            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
-        <script>
-          $(document).ready(function(){
-              $('.zoom').hover(function() {
-                  $(this).addClass('transition');
-              }, function() {
-                  $(this).removeClass('transition');
-              });
-          });
-        </script>
+
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+      <script>
+        $(document).ready(function(){
+            $('.zoom').hover(function() {
+                $(this).addClass('transition');
+            }, function() {
+                $(this).removeClass('transition');
+            });
+        });
+      </script>
     </body>
 </html>
