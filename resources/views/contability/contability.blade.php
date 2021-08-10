@@ -111,7 +111,7 @@
 
                 <br/>
                 <div class="container" style="padding-top:5vh">
-                  <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:white">NUESTROS SERVICIOS</h1>
+                  <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:#162b4e;">NUESTROS SERVICIOS</h1>
                 </div>
 
                 <div class="container" style="padding-top: 5vh">
@@ -119,7 +119,7 @@
                       
                         <div class="card">
                           <a href="#">
-                          <img src="/assets/img/contability/declaracionmensual.png" class="card-img-top img-fluid"  alt="...">
+                          <img src="assets/img/contability/declaracionmensual.png" class="card-img-top img-fluid"  alt="...">
                           <div class="card-body">
                             <h2 class="bebas card-title">DECLARACIONES MENSUALES SEMESTRALES Y ANUALES</h2>
                           
@@ -128,7 +128,7 @@
                         </div>
                         <div class="card">
                           <a href="#">
-                          <img src="/assets/img/contability/gastospersonales.jpg" class="card-img-top img-fluid" alt="...">
+                          <img src="assets/img/contability/gastospersonales.jpg" class="card-img-top img-fluid" alt="...">
                           <div class="card-body">
                             <h2 class="bebas card-title">DECLARACIÓN DE GASTOS PERSONALES</h2>
 
@@ -137,7 +137,7 @@
                         </div>
                         <div class="card">
                           <a href="#">
-                          <img src="/assets/img/contability/asesoria.png" class="card-img-top img-fluid" alt="...">
+                          <img src="assets/img/contability/asesoria.png" class="card-img-top img-fluid" alt="...">
                           <div class="card-body">
                             <h2 class="bebas card-title">AESORIA CONTABLE Y TRIBUTARIA</h2>
 
@@ -148,7 +148,7 @@
                     <div class="card-group">
                         <div class="card">
                           <a href="#">
-                          <img src="/assets/img/contability/iess.png" class="card-img-top" alt="...">
+                          <img src="assets/img/contability/iess.png" class="card-img-top" alt="...">
                           <div class="card-body">
                             <h2 class="bebas card-title">TRAMITES IESS MINISTERIO DE TRABAJO</h2>
                           
@@ -157,7 +157,7 @@
                         </div>
                         <div class="card">
                           <a href="#">
-                          <img src="/assets/img/contability/sistema.png" class="card-img-top" alt="...">
+                          <img src="assets/img/contability/sistema.png" class="card-img-top" alt="...">
                           <div class="card-body">
                             <h2 class="bebas card-title">SISTEMA CONTABLE</h2>
 
@@ -166,7 +166,7 @@
                         </div>
                         <div class="card">
                           <a href="#">
-                          <img src="/assets/img/contability/inventario.png" class="card-img-top" alt="...">
+                          <img src="assets/img/contability/inventario.png" class="card-img-top" alt="...">
                           <div class="card-body">
                             <h2 class="bebas card-title">SISTEMA DE INVENTARIO</h2>
 

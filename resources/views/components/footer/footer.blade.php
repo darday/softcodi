@@ -57,14 +57,19 @@
           <div class="text-center text-md-right">
             <ul class="list-unstyled list-inline">
               <li class="list-inline-item">
-                  <a href="https://www.facebook.com/SoftcodiCiaLtda-100164048985381/">
-                      <i class="fab fa-facebook-square" style="font-size:30px;color:white"></i>
-                      
+                  <a target="blanck" href="https://www.facebook.com/SoftcodiCiaLtda-100164048985381/">
+                      <i class="fab fa-facebook-square" style="font-size:30px;color:white"></i>                      
+                  </a>
+              </li>
+             
+              <li class="list-inline-item">
+                  <a  target="blanck" href="https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?">
+                      <i class="fab fa-whatsapp" style="font-size:30px;color:white"></i>
                   </a>
               </li>
              
               {{-- <li class="list-inline-item">
-                  <a href="https://www.instagram.com/artenativofundacion/?hl=es-la">
+                  <a  target="blanck" href="https://www.instagram.com/artenativofundacion/?hl=es-la">
                       <i class="fab fa-linkedin" style="font-size:30px;color:white"></i>
                   </a>
               </li> --}}

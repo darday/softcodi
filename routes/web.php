@@ -2,6 +2,9 @@
 
 use App\Http\Controllers\ContabilityController;
 use App\Http\Controllers\DevelopmentController;
+use App\Http\Controllers\TechnicalSupportController;
+use App\Http\Controllers\SalesPcController;
+use App\Http\Controllers\TeamsWorkController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -21,5 +24,8 @@ Route::get('/', function () {
 
 Route::get('/contabilidad', [ContabilityController::class, 'index'])->name('contability');
 Route::get('/desarrollo-web', [DevelopmentController::class, 'index'])->name('web_pages');
+Route::get('/mantenimiento-pcs', [TechnicalSupportController::class, 'index'])->name('maintenance_pcs');
+Route::get('/ventas-repuestos', [SalesPcController::class, 'index'])->name('sales_accessories');
+Route::get('/equipo-de-trabajo', [TeamsWorkController::class, 'index'])->name('teamsw');
 
 

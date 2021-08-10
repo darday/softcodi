@@ -74,9 +74,9 @@
           @include('components/navbar/navbar')            
       </div>
 
-      <div class="header-tit" style="background-image: url('assets/img/carousel/contabilidad2.jpg') ">
+      <div class="header-tit" style="background-image: url('assets/img/carousel/mantenimiento1.jpg') ">
           <div style=" width:100%; height:70vh; background-color:rgba(43, 39, 39, 0.397)" >
-              <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >DESARROLLO SOFTCODI<br></div>
+              <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >MANTENIMIENTO DE PC's & LAPTOPS SOFTCODI<br></div>
           </div>
       </div>
 
@@ -85,8 +85,8 @@
               <div class="row " style=" text-align:center">
 
                 <hr/>
-                <h1 class="titulo" style="color: Black">DESARROLLO DE SISTEMAS, PÁGINAS WEB Y APLICACIONES MÓVILES</h1>
-                <p style="margin-top: -2vh"><b>Darío Janeta - David Paca especialistas en desarrollo</b></p>
+                <h1 class="titulo" style="color: Black">MANTENIMIENTO DE COMPUTADORES DE ESCRITORIO Y LAPTOPS</h1>
+                <p style="margin-top: -2vh"><b>Ing. David Paca - Dario Janeta especialistas</b></p>
                 
               </div>
             
@@ -94,12 +94,15 @@
                 <div class="row" >
                   <div class=" col-sm-12 col-md-6 " style="display:flex; align-items:center;justify-content: center;">
                     <p>
-                      En la actualidad, un negocio que no se encuentra en Internet es como si no existiera, así de simple. Por eso es vital que tu empresa este presente en Internet y tenga una página web, para que tus clientes o futuros clientes estén siempre informados. 
-                      Además una página web Es la primera imagen que el cliente se lleva de tu negocio. Está demostrado que un cliente que está comparando en varias empresas, escogerá a la empresa que tiene presencia online ya que transmite más prestigio y calidad.
-                      <br/><br/>
+                    ¿Tu computadora está lenta?   
+                    ¿Tu computadora necesita reparación?   
+                    ¿Creés que no tienes suficiente espacio para almacenar tu información?
+                    Softcodi está para dar solución a todos tus problemas ténicos, entregandote un producto de calidad
+                    y garantizado.  
+                    <br/><br/>
                       <br/>
                     
-                      <b>Contactos: 0961119670 -  </b>
+                      <b>Contactos: 0984111628 - 0961119670   </b>
                       
                     </p>               
                     
@@ -107,7 +110,7 @@
                   <div class=" col-sm-12 col-md-6">
                     <br/>
                     
-                    <img src="assets/img/development/pagina-web.png" class="rounded  card-img-top img-fluid"  alt="..." >
+                    <img src="assets/img/technical_support/mantenimiento3.jpg" class="rounded  card-img-top img-fluid"  alt="..." >
                     
                   </div>
                 </div>
@@ -129,67 +132,79 @@
         </div>
 
         <div class="container" style="padding-top: 5vh">
-          <div class="row row-cols-1 row-cols-md-4 g-4">
+          <div class="row row-cols-1 row-cols-md-5 g-5">
             <div class="col">
               <div class="card h-100" style="border: 0em">
-                <i class="fas fa-laptop fa-7x"></i>
+              <img src="https://img.icons8.com/ios-filled/512/000000/computer-support.png"/>
                 <div class="card-body">
                   
-                  <h5 class="card-title">Páginas web</h5>
+                  <h5 class="card-title">Formateos</h5>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card h-100" style="border: 0em">
-                <i class="fas fa-code fa-7x"></i>
+                <img src="https://img.icons8.com/windows/512/000000/software-installer.png"/>
                 <div class="card-body">
-                  <h5 class="card-title">Desarrollo de software</h5>
+                  <h5 class="card-title">Instalación de software</h5>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card h-100" style="border: 0em">
-                <i class="fas fa-shopping-cart fa-7x"></i>                        <div class="card-body">
-                  <h5 class="card-title">Desarrollo de E-commerce</h5>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card h-100" style="border: 0em">
-                <i class="fas fa-mobile-alt fa-7x"></i>
+              <img src="https://img.icons8.com/ios-glyphs/512/000000/hdd.png"/>                        
                 <div class="card-body">
-                  <h5 class="card-title">Desarrollo de Apps</h5>
+                  <h5 class="card-title">Partición de discos</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="https://img.icons8.com/ios-filled/512/000000/laptop-cleaning.png"/>
+                <div class="card-body">
+                  <h5 class="card-title">Limpieza de virus</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="https://img.icons8.com/material-sharp/512/000000/computer-chat.png"/>
+                <div class="card-body">
+                  <h5 class="card-title">Actualizaciones</h5>
                 </div>
               </div>
             </div>
           </div>            
         </div>
         <br/>
-        <button type="button" class="btn btn-secondary btn-lg">Ver soluciones</button>
-
       </div>
 
-      {{-- FIN DE NUESTROS SERVICIOS --}}
+      <!-- {{-- FIN DE NUESTROS SERVICIOS --}}
+      {{-- NUESTROS PRECIOS --}} -->
 
-      {{-- NUESTROS PRECIOS --}}
-
-      <br/>
       <br/>
       <div class="container text-center">
-        <div class="container" style="padding-top:5vh">
-          <h1 class="bebas" style="background-color: #; padding-top:2vh; padding-bottom:2vh ; color:Black">NUESTROS PRECIOS</h1>
-          <hr/>
-        </div>
       </div>
       
-      <br/>
-      <br/>
+        <div class="header-tit" style="background-image: url('assets/img/carousel/mantenimiento10.jpg') ">
+          <div style=" width:100%; height:70vh; background-color:rgba(43, 39, 39, 0.397)">
+            <br>
+            <br>           
+            <center> <img src="assets/img/logos/softcodi-azul.png"   style="width:10%; "> </center>
+            <center> <div class="tit-sob-img" style="color:#FDFEFE" ><h1>¿SABIAS QUÉ?</h1></div>  </center>
+            <center><div class=" col-md-8 " style="color:#FDFEFE; display:flex; align-items:center;justify-content: center;">
+              <h3>
+                Sabías que tu computadora necesita un mantenimiento cada 6 meses para un manejo eficaz 
+                de ordenador. Softcodi te ayuda con formateos, instalación de software, partición de discos, 
+                limpieza de virus, actualizaciones. 
+          </h3>
+            </center>
 
+          </div>
+        </div>      
       <div>
         @include('components/footer/footer')
       </div>
-
-
 
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
       <script>
