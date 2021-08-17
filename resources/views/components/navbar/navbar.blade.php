@@ -56,18 +56,13 @@
             </ul>
             </li>
 
-            <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Diseño
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                <li><a class="dropdown-item" href="#">Diseño de Marca Empresarial</a></li>
-                <li><a class="dropdown-item" href="#">Marketing Digital</a></li>
-            </ul>
-            </li>
+           
 
             <li class="nav-item">
-                <a class="nav-link" href="#">Nuestro Equipo</a>
+                <a class="nav-link" href="{{url('/diseño-grafico')}}">Diseño Gráfico</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="">Nuestro Equipo</a>
             </li>
         </ul>
     </div>
