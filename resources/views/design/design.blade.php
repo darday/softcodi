@@ -66,18 +66,27 @@
                 transform: scale(1.2);
             }
 
+
+
             
         </style>
     </head>
     <body >
+
+      
+
       <div>
           @include('components/navbar/navbar')            
       </div>
 
-      <div class="header-tit" style="background-image: url('assets/img/carousel/ventas3.png') ">
+      <div class="header-tit" style="background-image: url('assets/img/carousel/contabilidad2.jpg') ">
           <div style=" width:100%; height:70vh; background-color:rgba(43, 39, 39, 0.397)" >
-              <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >VENTA DE REPUESTOS Y ACCESORIOS<br></div>
+              <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >DISEÑO GRÁFICO SOFTCODI<br></div>
           </div>
+      </div>
+
+      <div class="div">
+        <a href="https://wa.me/593961119670?text=Hola%20necesito%20cotizar%20un%20proyecto%20web%20me%20ayuda%20con%20información%20por%20favor%20" class="btn-wsp" target="_blanck"> <i class="fab fa-whatsapp"></i> </a>
       </div>
 
       <div class=" text-center container" style="padding-top:5vh; border:5px ">
@@ -85,20 +94,22 @@
               <div class="row " style=" text-align:center">
 
                 <hr/>
-                <h1 class="titulo" style="color: Black">VENTA DE REPUESTOS DE COMPUTADORES DE ESCRITORIO Y LAPTOPS</h1>
-                <p style="margin-top: -2vh"><b>Ing. David Paca - Dario Janeta especialistas</b></p>
+                <h1 class="titulo" style="color: Black">DISEÑO GRÁFICO EMPRESARIAL</h1>
+                <p style="margin-top: -2vh"><b>Esteban Tenesaca especialistas en diseño</b></p>
                 
               </div>
             
-            <div class="container" style="width: 85%">
+              <div class="container" style="width: 85%">
                 <div class="row" >
                   <div class=" col-sm-12 col-md-6 " style="display:flex; align-items:center;justify-content: center;">
                     <p>
-                    En Softcodi encontrarás todo lo que tú estabas buscando en cuanto es a tecnología, a precios accesibles y garantizados.  
-                    <br/><br/>
+                      En la mayoría de las acciones de compra de los clientes o usuarios de un sistema consiste en que se dejan guiar por sus instintos hacia la marca.
+                      Contar con una buena imagen a primera vista es la mejor forma de conectar con una marca, empresa o producto. Y esto sólo se consigue con una agencia de diseño gráfico profesional.
+                      <br/>
+                      El diseño gráfico no hay que dejarlo en un segundo plano. Es mucho más que la parte visual de una marca, es parte de una gran estrategia de marketing corporativo que consigue acercar la empresa a un público determinado.
                       <br/>
                     
-                      <b>Contactos: 0984111628 - 0961119670 </b>
+                      <b>Contactos: 0961119670 -  </b>
                       
                     </p>               
                     
@@ -106,92 +117,65 @@
                   <div class=" col-sm-12 col-md-6">
                     <br/>
                     
-                    <img src="assets/img/sales_accessories_pcs/ventas4.jpg" class="rounded  card-img-top img-fluid"  alt="..." >
+                    <img src="assets/img/development/pagina-web.png" class="rounded  card-img-top img-fluid"  alt="..." >
                     
                   </div>
                 </div>
-              </div>  
+              </div>
           </div>
+
+    
+        
+          
+
       </div>
+
+      {{-- NUESTRO SERVICIOS --}}
 
       <div class="container text-center">
 
-        <div class="container">
-          <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color: #162b4e;">ARTÍCULOS EN VENTA</h1>
+        <div class="container" style="padding-top:5vh">
+          <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:white">NUESTROS SERVICIOS</h1>
         </div>
 
         <div class="container" style="padding-top: 5vh">
           <div class="row row-cols-1 row-cols-md-4 g-4">
             <div class="col">
               <div class="card h-100" style="border: 0em">
-               <img src="assets/img/sales_accessories_pcs/disco_duro120.png"/>
-                <div class="card-body">                  
-                  <h5 class="card-title">DISCO DURO SÓLIDO DE 120 GB</h5>
-                  <p>Precio: $42</p>
-                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
-                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
-                </div>
-              </div>
-            </div>
-            
-            <div class="col">
-              <div class="card h-100" style="border: 0em">
-              <img src="assets/img/sales_accessories_pcs/teclado_gamer.png"/>                        
+                <i class="fas fa-laptop fa-7x"></i>
                 <div class="card-body">
-                  <h5 class="card-title">TECLADO + MOUSE GAMER</h5>
-                  <p>Precio: $20</p>
-                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
-                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                  
+                  <h5 class="card-title">Páginas web</h5>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card h-100" style="border: 0em">
-              <img src="assets/img/sales_accessories_pcs/Mouse_amarillo.png"/>  
+                <i class="fas fa-code fa-7x"></i>
                 <div class="card-body">
-                  <h5 class="card-title">AOAS RGB GAMMING MOUSE</h5>
-                  <p>Precio: $6</p>
-                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
-                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                  <h5 class="card-title">Desarrollo de software</h5>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card h-100" style="border: 0em">
-              <img src="assets/img/sales_accessories_pcs/Mouse_aZUL.png"/>  
+                <i class="fas fa-shopping-cart fa-7x"></i>                        <div class="card-body">
+                  <h5 class="card-title">Desarrollo de E-commerce</h5>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+                <i class="fas fa-mobile-alt fa-7x"></i>
                 <div class="card-body">
-                  <h5 class="card-title">WIRELESS OPTICAL MOUSE</h5>
-                  <p>Precio: $9</p>
-                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
-                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card h-100" style="border: 0em">
-              <img src="assets/img/sales_accessories_pcs/bateria_laptop1.png"/>  
-                <div class="card-body">
-                  <h5 class="card-title">BATERÍA DE LAPTOP</h5> <br>
-                  <p>Precio: Desde $47</p>
-                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
-                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card h-100" style="border: 0em">
-              <img src="assets/img/sales_accessories_pcs/disco_duro120.png"/>
-                <div class="card-body">                  
-                  <h5 class="card-title">DISCO DURO SÓLIDO DE 120 GB</h5>
-                  <p>Precio: $42</p>
-                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
-                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                  <h5 class="card-title">Desarrollo de Apps</h5>
                 </div>
               </div>
             </div>
           </div>            
         </div>
-        
+        <br/>
+        <button type="button" class="btn btn-secondary btn-lg">Ver soluciones</button>
 
       </div>
 
@@ -199,16 +183,19 @@
 
       {{-- NUESTROS PRECIOS --}}
 
-      <br/>
-      <br/>
-      <div class="container text-center">
-        <div class="container" style="padding-top:5vh">
-          <hr/>
-        </div>
-      </div>
+      
+
+      
+      {{-- FIN NUESTROS PRECIOS  --}}
+      
       
       <br/>
       <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+
 
       <div>
         @include('components/footer/footer')

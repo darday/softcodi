@@ -66,10 +66,15 @@
                 transform: scale(1.2);
             }
 
+
+
             
         </style>
     </head>
     <body >
+
+      
+
       <div>
           @include('components/navbar/navbar')            
       </div>
@@ -78,6 +83,10 @@
           <div style=" width:100%; height:70vh; background-color:rgba(43, 39, 39, 0.397)" >
               <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >DESARROLLO SOFTCODI<br></div>
           </div>
+      </div>
+
+      <div class="div">
+        <a href="https://wa.me/593961119670?text=Hola%20necesito%20cotizar%20un%20proyecto%20web%20me%20ayuda%20con%20información%20por%20favor%20" class="btn-wsp" target="_blanck"> <i class="fab fa-whatsapp"></i> </a>
       </div>
 
       <div class=" text-center container" style="padding-top:5vh; border:5px ">
@@ -174,16 +183,168 @@
       {{-- NUESTROS PRECIOS --}}
 
       <br/>
-      <br/>
-      <div class="container text-center">
-        <div class="container" style="padding-top:5vh">
-          <h1 class="bebas" style="background-color: #; padding-top:2vh; padding-bottom:2vh ; color:Black">NUESTROS PRECIOS</h1>
-          <hr/>
+      
+      <img src="assets/img/development/marco.png" class="card-img-top" alt="...">
+      <div style="background-color: blue" style="margin-top: -50px">
+        <div class=" text-center" style="background-color: #29abe2">
+          <div class="container" style="padding-top:vh">
+            <h1 class="bebas" style="background-color: #; padding-top:; padding-bottom:2vh ; color:Black">NUESTROS PRECIOS</h1>
+            
+            
+            <div class="card-group">
+              <div class="col">
+  
+                
+                <div class="card" style="padding-top: -50px">
+                  <img src="assets/img/development/basico.png" class="card-img-top" alt="...">
+  
+                  
+                  <div class="card-header bg-transparent border-success"><h5 class="card-title">PÁGINAS PEQUEÑAS</h5></div>
+                  <div class="card-body">
+              
+                    
+                    <p class="card-text"><i class="fas fa-check"></i> <b>One Page</b> con 4 opciones de menú</p>
+                    <p class="card-text"><i class="fas fa-check"></i> Desarrollo a travez de <b>código</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Adaptativo a <b>dispositivos móviles</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b>Galería</b> de imágenes</p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b>Personalización</b> de la página web</p>
+                    <p class="card-text"><i class="fas fa-check"></i> Formulario de <b>Contacto</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Mapa</b> de ubicación</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Banner</b> transitorio</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat via</b> Whatsapp</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Dominio</b> de primer nivel (www.tunegocio.com) </p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Correo </b> Empresarial</p>
+                    <p class="card-text"><i class="fas fa-check"></i> Asesoria en <b> Marketing Dígital </b> </p>
+                    <p class="card-text"><i class="fas fa-check"></i> 6 Meses de <b> Asistencia Técnica Gratuita </b> </p>
+                    <p class="card-text"><i class="fas fa-check"></i> Botón con enlace a <b> Redes Sociales </b> </p>
+                    <p class="card-text"><i class="fas fa-check"></i> Incorporamos  <b> 12 productos o 5 servicios</b> </p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b> Certificado de seguridad</b> SSL</p>
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted">Last updated 3 mins ago</small>
+                  </div>
+                </div>
+              </div>
+  
+              <div class="col">            
+                <div class="card">
+                  <img src="assets/img/development/emprendedor.png" class="card-img-top" alt="...">
+                  <div class="card-header bg-transparent border-success"><h5 class="card-title">PÁGINAS MEDIANAS</h5></div>
+                  <div class="card-body">
+              
+                    
+                    <p class="card-text"><i class="fas fa-check"></i> Menú de <b>4 pestañas</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Desarrollo a travez de <b>código</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Adaptativo a <b>dispositivos móviles</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b>Galería</b> de imágenes</p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b>Personalización</b> de la página web</p>
+                    <p class="card-text"><i class="fas fa-check"></i> Formulario de <b>Contacto</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Mapa</b> de ubicación</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Banner</b> transitorio</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat via</b> Whatsapp</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Dominio</b> de primer nivel (www.tunegocio.com) </p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Correo </b> Empresarial</p>
+                    <p class="card-text"><i class="fas fa-check"></i> Asesoria en <b> Marketing Dígital </b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> 6 Meses de <b> Asistencia Técnica Gratuita </b> </p>
+                    <p class="card-text"><i class="fas fa-check"></i> Botón con enlace a <b> Redes Sociales </b> </p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b>Incorporamos 15 productos o 6 servicios</b> </p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b> Certificado de seguridad</b> SSL </p>
+  
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted">Last updated 3 mins ago</small>
+                  </div>
+                </div>
+              </div>
+  
+              <div class="col">              
+                <div class="card">
+                  <img src="assets/img/development/negocios.png" class="card-img-top" alt="...">
+                  <div class="card-header bg-transparent border-success"><h5 class="card-title">PÁGINAS GRANDES</h5></div>
+                  <div class="card-body">
+              
+                    
+                    <p class="card-text"><i class="fas fa-check"></i> Menú de <b>6 pestañas</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Desarrollo a travez de <b>código</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Administracionn por parte del <b>cliente</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Página web <b>siempre actualizada</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Adaptativo a <b>dispositivos móviles</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b>Galería</b> de imágenes</p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b>Personalización</b> de la página web</p>
+                    <p class="card-text"><i class="fas fa-check"></i> Formulario de <b>Contacto</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Mapa</b> de ubicación</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Banner</b> transitorio</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat via</b> Whatsapp</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Dominio</b> de primer nivel (www.tunegocio.com) </p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Correo </b> Empresarial</p>
+                    <p class="card-text"><i class="fas fa-check"></i> Asesoria en <b> Marketing Dígital </b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> 6 Meses de <b> Asistencia Técnica Gratuita </b> </p>
+                    <p class="card-text"><i class="fas fa-check"></i> Botón con enlace a <b> Redes Sociales </b> </p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b>Productos Ilimitados</b> y 6 Servicios</p>
+                    <p class="card-text"><i class="fas fa-check"></i> <b> Certificado de seguridad</b> SSL </p>
+  
+                  </div>
+                  <div class="card-footer">
+                    <small class="text-muted">Last updated 3 mins ago</small>
+                  </div>
+                </div>
+              </div>  
+  
+              <div class="card">
+                <img src="assets/img/development/empresarial.png" class="card-img-top" alt="...">
+                <div class="card-header bg-transparent border-success"><h5 class="card-title">TIENDA VIRTUAL</h5></div>
+                <div class="card-body">
+            
+                  
+                  <p class="card-text"><i class="fas fa-check"></i> Menú de <b>7 pestañas</b></p>
+                  <p class="card-text"><i class="fas fa-check"></i> Desarrollo a travez de <b>código</b></p>
+                  <p class="card-text"><i class="fas fa-check"></i> Administracionn por parte del <b>cliente</b></p>
+                  <p class="card-text"><i class="fas fa-check"></i> Página web <b>siempre actualizada</b></p>
+                  <p class="card-text"><i class="fas fa-check"></i> Adaptativo a <b>dispositivos móviles</b></p>
+                  <p class="card-text"><i class="fas fa-check"></i> <b>Galería</b> de imágenes</p>
+                  <p class="card-text"><i class="fas fa-check"></i> <b>Personalización</b> de la página web</p>
+                  <p class="card-text"><i class="fas fa-check"></i> Formulario de <b>Contacto</b></p>
+                  <p class="card-text"><i class="fas fa-check"></i><b> Mapa</b> de ubicación</p>
+                  <p class="card-text"><i class="fas fa-check"></i><b> Banner</b> transitorio</p>
+                  <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat via</b> Whatsapp</p>
+                  <p class="card-text"><i class="fas fa-check"></i><b> Dominio</b> de primer nivel (www.tunegocio.com) </p>
+                  <p class="card-text"><i class="fas fa-check"></i><b> Correo </b> Empresarial</p>
+                  <p class="card-text"><i class="fas fa-check"></i> Asesoria en <b> Marketing Dígital </b></p>
+                  <p class="card-text"><i class="fas fa-check"></i> 6 Meses de <b> Asistencia Técnica Gratuita </b> </p>
+                  <p class="card-text"><i class="fas fa-check"></i> Botón con enlace a <b> Redes Sociales </b> </p>
+                  <p class="card-text"><i class="fas fa-check"></i> <b>Productos Ilimitados</b> y 6 Servicios</p>
+                  <p class="card-text"><i class="fas fa-check"></i> <b> Certificado de seguridad</b> SSL </p>
+                  <p class="card-text"><i class="fas fa-check"></i> <b> Carrito de compra</b> con usuario y contraseña </p>
+                  <p class="card-text"><i class="fas fa-check"></i> Cobro con<b> Tarjeta de crédito</b> mediante <b>PayPhone App, Paypal, PayMentez</b> </p>
+                  <p class="card-text"><i class="fas fa-check"></i> El cliente debe crear sus cuentas en PayPal, PayPhone APP, PayMentez y Pagomedios (*) y no incluyen dentro del presupuesto los gastos propios de las plataformas ni comisiones bancarias o de uso que estas plataformas requieran</p>
+                  
+  
+                </div>
+                
+                <div class="card-footer">
+                  <small class="text-muted">Last updated 3 mins ago</small>
+                </div>
+              </div>  
+    
+            </div>         
+          </div>
+          <br/>
         </div>
       </div>
+      <img src="assets/img/development/marco_inferior.png" class="card-img-top" alt="...">
+
+
+      
+      {{-- FIN NUESTROS PRECIOS  --}}
+      
       
       <br/>
       <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+
 
       <div>
         @include('components/footer/footer')

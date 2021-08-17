@@ -5,6 +5,7 @@ use App\Http\Controllers\DevelopmentController;
 use App\Http\Controllers\TechnicalSupportController;
 use App\Http\Controllers\SalesPcController;
 use App\Http\Controllers\TeamsWorkController;
+use App\Http\Controllers\DesignController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -27,5 +28,6 @@ Route::get('/desarrollo-web', [DevelopmentController::class, 'index'])->name('we
 Route::get('/mantenimiento-pcs', [TechnicalSupportController::class, 'index'])->name('maintenance_pcs');
 Route::get('/ventas-repuestos', [SalesPcController::class, 'index'])->name('sales_accessories');
 Route::get('/equipo-de-trabajo', [TeamsWorkController::class, 'index'])->name('teamsw');
+Route::get('/diseño-grafico', [DesignController::class, 'index'])->name('design');
 
 

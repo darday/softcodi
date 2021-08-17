@@ -104,7 +104,7 @@
                             </p>                 
                         </div>  
                         <div class=" col-sm-12 col-md-6" >                   
-                            <img src="assets/img/teamwork/DarioJaneta.png" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
+                            <img src="assets/img/teamwork/DarioJaneta1.jpeg" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
                         </div>  
                     </div>
                 </div>
@@ -155,7 +155,7 @@
                             </p>                 
                         </div>  
                         <div class=" col-sm-12 col-md-6" >                   
-                            <img src="assets/img/teamwork/DarioJaneta.png" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
+                            <img src="assets/img/teamwork/DarioJaneta1.jpeg" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
                         </div>  
                     </div>
                 </div>
@@ -206,7 +206,7 @@
                             </p>                 
                         </div>  
                         <div class=" col-sm-12 col-md-6" >                   
-                            <img src="assets/img/teamwork/DarioJaneta.png" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
+                            <img src="assets/img/teamwork/DarioJaneta1.jpeg" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
                         </div>  
                     </div>
                 </div>
