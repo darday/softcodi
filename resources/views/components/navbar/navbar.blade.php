@@ -58,12 +58,11 @@
 
            
 
+            <a class="nav-link" href="{{url('/diseño-grafico')}}">Diseño Gráfico</a>
+        </li>
+        <li class="nav-item">
             <li class="nav-item">
                 <a class="nav-link" href="{{ url('/equipo-de-trabajo') }}">Nuestro Equipo</a>
-                <a class="nav-link" href="{{url('/diseño-grafico')}}">Diseño Gráfico</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="">Nuestro Equipo</a>
             </li>
         </ul>
     </div>
