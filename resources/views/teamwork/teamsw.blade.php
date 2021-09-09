@@ -140,22 +140,25 @@
                 </div>
                 <br>
                 <div class="container" style="width: 85%">
-                    <p style="margin-top: -2vh"><b>DARIO JAVIER JANETA PACA</b></p>               
+                    <p style="margin-top: -2vh"><b>LUIS ALFONSO YUMISEBA COLCHA</b></p>               
                     <div class="row" >
                         <div class=" col-sm-12 col-md-6 " style="display:flex; text-align: justify;">
                             <p>
                                 Egresado de la carrera de Ingenieria en sistemas de la Escuela Superior Politécnica de Chimborazo. 
                                 Productor audiovisual.
                                 <br><br>
-                                Desarrollador de la página web del Congreso Internacional de Innovación y Emprendimiento INNOVAEC 
-                                2019 el cual se realizó en la Escuela Superior Politécnica de Chimborazo a finales del mes de 
-                                Octubre del 2019.Actualmente administra la aplicación web del festival Kunturñawi y Wawas al Cine.
+                                Me considero una persona con principios y valores como la integridad, el
+                                trabajo en equipo, la lealtad, la responsabilidad, disciplina, la puntualidad,
+                                emprendedor en las áreas designadas, con conocimientos para el área administrativa, contable,
+                                financiera, facturación desarrollando nuevashabilidades y aptitudes día.
+a día.
+
                                 <br/><br/>                    
-                                <b>Contactos: 0961119670 </b>                      
+                                <b>Contactos: 0604127423 </b>                      
                             </p>                 
                         </div>  
                         <div class=" col-sm-12 col-md-6" >                   
-                            <img src="assets/img/teamwork/DarioJaneta1.jpeg" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
+                            <img src="assets/img/teamwork/LuisYumiseba.png" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
                         </div>  
                     </div>
                 </div>
