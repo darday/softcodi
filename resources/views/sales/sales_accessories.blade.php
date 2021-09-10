@@ -133,12 +133,45 @@
                 </div>
               </div>
             </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+               <img src="assets/img/sales_accessories_pcs/RamDDR4.png"/>
+                <div class="card-body">                  
+                  <h5 class="card-title">SPECTRIX D60G DDR4 RGB MEMORY</h5>
+                  <p>Precio: $81</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
             
             <div class="col">
               <div class="card h-100" style="border: 0em">
               <img src="assets/img/sales_accessories_pcs/teclado_gamer.png"/>                        
                 <div class="card-body">
                   <h5 class="card-title">TECLADO + MOUSE GAMER</h5>
+                  <p>Precio: $20.50</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/Quasad 4 en 1.png"/>                        
+                <div class="card-body">
+                  <h5 class="card-title">QUASAD GAMING BUNDLE 4 EN 1 RGB</h5>
+                  <p>Precio: $58</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/SoporteRefrigeracion.png"/>                        
+                <div class="card-body">
+                  <h5 class="card-title">SOPORTE DE REFRIGERACIÓN PARA PORTÁTILES</h5>
                   <p>Precio: $20</p>
                   <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
                   <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
@@ -150,7 +183,7 @@
               <img src="assets/img/sales_accessories_pcs/Mouse_amarillo.png"/>  
                 <div class="card-body">
                   <h5 class="card-title">AOAS RGB GAMMING MOUSE</h5>
-                  <p>Precio: $6</p>
+                  <p>Precio: $5</p>
                   <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
                   <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
                 </div>
@@ -161,7 +194,205 @@
               <img src="assets/img/sales_accessories_pcs/Mouse_aZUL.png"/>  
                 <div class="card-body">
                   <h5 class="card-title">WIRELESS OPTICAL MOUSE</h5>
-                  <p>Precio: $9</p>
+                  <p>Precio: $10.50</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/Adatausbflashdriver64gb.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">USB FLASH DRIVER ADATA 64GB</h5>
+                  <p>Precio: $14</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/kingston data traveler 32 gb.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">USB FLASH DRIVER DATATRAVELER 32BG</h5>
+                  <p>Precio: $9.50</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/kingston data traveler 128gb.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">MEMORIA FLASH USB KINGSTON 128BG</h5>
+                  <p>Precio: $22</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/USB 7 puertos.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">DIVISOR DE EXTENSIÓN USB</h5>
+                  <p>Precio: $7</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/tp link 840.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">ROUTER TP-LINK 300MBPS TL-W840N</h5>
+                  <p>Precio: $22</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/extensor de wifi.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">TP-LINK EXTENSOR DE RANGO WIFI 300MBPS</h5>
+                  <p>Precio: $25</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/wireless nexxt.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">LYNX 301 WIRELESS</h5> <br>
+                  <p>Precio: $14</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/wireless dual band.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">DUAL BAND WIRELESS USB ADPTER</h5>
+                  <p>Precio: $10</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/Naxos 500 fast ethernet.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">NAXOS 500 SWITCH ETHERNET</h5>
+                  <p>Precio: $10</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/regulador de voltaje.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">REGULADOR DE VOLTAJE</h5>
+                  <p>Precio: $14</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/audifonos xtrike.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">AUDÍFONOS ESTÉREO GH-709</h5>
+                  <p>Precio: $22</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/audifonos k5 pro.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">AUDÍFONOS GAMER K5 PRO</h5>
+                  <p>Precio: $28</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/tipoC hdtv.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">TYPE C > HDTV CABLE 2M </h5>
+                  <p>Precio: $14</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/fast charing - cable.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">LDNIO LS531 1M TYPE C 2.4A</h5>
+                  <p>Precio: $6</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/fast charing.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">CARGADOR CELULAR LDNIO</h5>
+                  <p>Precio: $12</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/fast charing.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">CARGADOR CELULAR LDNIO</h5>
+                  <p>Precio: $12</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/net_ktv_microphone.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">MICRÓFONO NET KTV</h5><br>
+                  <p>Precio: $7</p>
+                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
+                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card h-100" style="border: 0em">
+              <img src="assets/img/sales_accessories_pcs/Microfono1.png"/>  
+                <div class="card-body">
+                  <h5 class="card-title">CONDENSER MICROPHONE</h5>
+                  <p>Precio: $11</p>
                   <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
                   <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
                 </div>
@@ -178,17 +409,7 @@
                 </div>
               </div>
             </div>
-            <div class="col">
-              <div class="card h-100" style="border: 0em">
-              <img src="assets/img/sales_accessories_pcs/disco_duro120.png"/>
-                <div class="card-body">                  
-                  <h5 class="card-title">DISCO DURO SÓLIDO DE 120 GB</h5>
-                  <p>Precio: $42</p>
-                  <a target="blanck" href="{{ url('https://api.whatsapp.com/send?phone=+593961119670&text=Hola! podrían ayudarme?') }}">
-                  <button type="button" class="btn btn-outline-success">COMPRAR</button></a>
-                </div>
-              </div>
-            </div>
+            
           </div>            
         </div>
         
