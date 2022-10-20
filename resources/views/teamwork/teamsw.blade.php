@@ -144,26 +144,24 @@
                     <div class="row" >
                         <div class=" col-sm-12 col-md-6 " style="display:flex; text-align: justify;">
                             <p>
-                                Egresado de la carrera de Ingenieria en sistemas de la Escuela Superior Politécnica de Chimborazo. 
-                                Productor audiovisual.
+                                
                                 <br><br>
                                 Me considero una persona con principios y valores como la integridad, el
                                 trabajo en equipo, la lealtad, la responsabilidad, disciplina, la puntualidad,
                                 emprendedor en las áreas designadas, con conocimientos para el área administrativa, contable,
-                                financiera, facturación desarrollando nuevashabilidades y aptitudes día.
-a día.
+                                financiera, facturación desarrollando nuevashabilidades y aptitudes día a día.
 
                                 <br/><br/>                    
-                                <b>Contactos: 0604127423 </b>                      
+                                <b>Contactos: 0993786135 </b>                      
                             </p>                 
                         </div>  
                         <div class=" col-sm-12 col-md-6" >                   
-                            <img src="assets/img/teamwork/LuisYumiseba.png" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
+                            <img src="assets/img/teamwork/LuisYumiseba.png" class="rounded  "  alt="..." style="width: auto; heigth:550px" >                    
                         </div>  
                     </div>
                 </div>
                 <br><br>
-                <div class="container" style="width: 85%">
+                {{-- <div class="container" style="width: 85%">
                 <p style="margin-top: -2vh"><b>EDISON DAVID PACA CEPEDA</b></p> 
                     <div class="row" >
                         <div class=" col-sm-12 col-md-6 " style="display:flex; text-align: justify;">
@@ -182,7 +180,7 @@ a día.
                             <img src="assets/img/teamwork/DavidPaca.png" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%">                    
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
 <!-- ********************************************************* CONTABILIDAD ******************************************* -->
@@ -194,22 +192,26 @@ a día.
                 </div>
                 <br>
                 <div class="container" style="width: 85%">
-                    <p style="margin-top: -2vh"><b>DARIO JAVIER JANETA PACA</b></p>               
+                    <p style="margin-top: -2vh"><b>KARO CARRASCO
+                    </b></p>               
                     <div class="row" >
                         <div class=" col-sm-12 col-md-6 " style="display:flex; text-align: justify;">
                             <p>
-                                Egresado de la carrera de Ingenieria en sistemas de la Escuela Superior Politécnica de Chimborazo. 
-                                Productor audiovisual.
+                                Diseñadora gráfica apasionada por la ilustración y la animación 2D, con 5 años de experiencia. Trabaja con diversas
+                                 tendencias y estilos gráficos de vanguardia aplicables a los diferentes campos del diseño, desarrolla proyectos integrales de diseño gráfico, creación y manejo de identidad corporativa de empresas, productos o servicios, y asesoramiento para el manejo de las mismas en redes sociales.
                                 <br><br>
-                                Desarrollador de la página web del Congreso Internacional de Innovación y Emprendimiento INNOVAEC 
-                                2019 el cual se realizó en la Escuela Superior Politécnica de Chimborazo a finales del mes de 
-                                Octubre del 2019.Actualmente administra la aplicación web del festival Kunturñawi y Wawas al Cine.
+                                En 2017 formó parte, como diseñadora gráfica, en la creación de la Escuela Integral de Formación de Artistas – 
+                                EIFA avalada por el Teatro Bolívar en la ciudad de Quito, Ecuador. @EIFAEcuador. En 2019 desarrolló el diseño 
+                                del álbum “KENOPSIA” de Juan Pablo Acosta, disponible en iTunes, Spotify y Youtube. Ha trabajado con empresas 
+                                como: Banco Internacional, La Red Ecuatoriana de Pedagogía, Brinkadoteca, Teatro Victoria, Radio Victoria, 
+                                entre otras. Actualmente maneja la identidad gráfica del Festival de Cine Ecuatoriano Kunturñawi y Wawas al 
+                                cine
                                 <br/><br/>                    
-                                <b>Contactos: 0961119670 </b>                      
+                                <b>Contactos: 0992789920 </b>                      
                             </p>                 
                         </div>  
                         <div class=" col-sm-12 col-md-6" >                   
-                            <img src="assets/img/teamwork/DarioJaneta1.jpeg" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
+                            <img src="assets/img/teamwork/karo.png" class="rounded  card-img-top img-fluid"  alt="..." style="width: 50%" >                    
                         </div>  
                     </div>
                 </div>

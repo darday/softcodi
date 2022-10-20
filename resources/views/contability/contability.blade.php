@@ -75,13 +75,16 @@
                     <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >CONTABILIDAD SOFTCODI<br></div>
                 </div>
             </div>
+            <div class="div">
+              <a href="https://wa.me/593993786135?text=Hola%20necesito%20ayuda%20contable%20me%20ayuda%20con%20información%20por%20favor%20" class="btn-wsp" target="_blanck"> <i class="fab fa-whatsapp"></i> </a>
+            </div>
 
             <div class=" text-center container" style="padding-top:5vh; border:5px ">
                 <div class="div text-center" style="; padding-bottom: 9vh">
                     <div class="row " style=" text-align:center">
 
                       <hr/>
-                      <h1 class="titulo" style="color: Black">ASESORES CONTABLES Y TRIBUTARIOS</h1>
+                      <h1 class="titulo" style="color: Black">SOFTWARE ADMINISTRATIVO CONTABLE Y DE FACTURACIÓN</h1>
                       <p style="margin-top: -2vh"><b>Luis Yumiseba - Jhon Santos Especialistas Contables</b></p>
                       
                     </div>
@@ -90,11 +93,14 @@
                       <div class="row" >
                         <div class=" col-sm-12 col-md-6 " style="display:flex; align-items:center;justify-content: center;">
                           <p>
-                            Nuestros servicio de asesoria contable y tributaria, con presencia en el centro del país, cuenta con técnicos de alta experiencia en las diferentes áreas, lo que garantiza a nuestros clientes, no solo el trato profesional y personalizado, sino que les ofrece la seguridad de contar con el apoyo de especialistas.
+                          <b>Software Administrativo Contable y de facturacion </b> para PYMES contamos con un software rápido, seguro y flexible el cual agilita y simplifica el proceso contable.
+                            <!-- Nuestros servicio de asesoría contable y tributaria, con presencia en el centro del país, cuenta con técnicos de alta experiencia en las diferentes áreas, lo que garantiza a nuestros clientes, no solo el trato profesional y personalizado, sino que les ofrece la seguridad de contar con el apoyo de especialistas. -->
+                            Te capacitamos para que puedas utilizar el software en tu empresa y de esta forma tengas un mejor control sobre tus ventas. 
+                            <br/>
                             <br/><br/>
-                            <br/><br/>
-                          
-                            <b>Contactos: Esto es el ejmoplo </b>
+                            
+                            <br>Cotiza tu sistema sin ningún compromiso<br>
+                            <b>Contactos: <a href="https://wa.me/593993786135?text=Hola%20necesito%20ayuda%20contable%20me%20ayuda%20con%20información%20por%20favor%20" >0993786135</a> </b>
                             
                           </p>               
                          
@@ -102,7 +108,7 @@
                         <div class=" col-sm-12 col-md-6">
                           <br/>
                           
-                          <img src="assets/img/contability/asesoria2.jpg" class="card-img-top img-fluid"  alt="...">
+                          <img src="assets/img/contability/puntoVenta.jpg" class="card-img-top img-fluid"  alt="...">
                          
                         </div>
                       </div>
@@ -110,42 +116,86 @@
                 </div>
 
                 <br/>
+
+                <div>
+                  <div class="row center-text justify-center">
+                    <div class=" col-sm-12 col-md-4 " >
+                        <div class="card">
+                          <img src="assets/img/contability/sis2.jpg" class="card-img-top img-fluid" alt="...">
+                          <div class="card-body">
+                            <h2 class="bebas card-title">SISTEMA BÁSICO</h2>
+                            <ul style="text-align: left;">
+                              <li>Administración</li>
+                              <li>Inventario</li>
+                              <li>Facturación</li>
+                              <li>Capacitación</li>
+                            </ul>
+
+                          </div>
+                          
+                        </div>
+                        
+                      
+                    </div>
+                    <div class=" col-sm-12 col-md-4 " >
+                        <div class="card">
+                          <img src="assets/img/contability/sis1.jpg" class="card-img-top img-fluid" alt="...">
+                          <div class="card-body">
+                            <h2 class="bebas card-title">SISTEMA COMPLETO</h2>
+                            <ul style="text-align: left;">
+                              <li>Administración</li>
+                              <li>Inventario</li>
+                              <li>Facturación</li>
+                              <li>Compras</li>
+                              <li>Cartera</li>
+                              <li>Contabilidad</li>
+                              <li>Capacitación</li>
+                            </ul>
+
+                          </div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+
                 <div class="container" style="padding-top:5vh">
-                  <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:#162b4e;">NUESTROS SERVICIOS</h1>
+                  <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:#162b4e;">
+                    NUESTROS CLIENTES
+                  </h1>
                 </div>
 
                 <div class="container" style="padding-top: 5vh">
                     <div class="card-group">
                       
                         <div class="card">
-                          <a href="#">
-                          <img src="assets/img/contability/declaracionmensual.png" class="card-img-top img-fluid"  alt="...">
+                          <!-- <a href="#"> -->
+                          <img src="assets/img/contability/siscli1.jpg" class="card-img-top img-fluid"  alt="...">
                           <div class="card-body">
-                            <h2 class="bebas card-title">DECLARACIONES MENSUALES SEMESTRALES Y ANUALES</h2>
+                            <h2 class="bebas card-title">JORDI AGRO</h2>
                           
                           </div>
-                          </a>
+                          <!-- </a> -->
                         </div>
                         <div class="card">
-                          <a href="#">
-                          <img src="assets/img/contability/gastospersonales.jpg" class="card-img-top img-fluid" alt="...">
+                          <!-- <a href="#"> -->
+                          <img src="assets/img/contability/siscli2.jpg" class="card-img-top img-fluid" alt="...">
                           <div class="card-body">
-                            <h2 class="bebas card-title">DECLARACIÓN DE GASTOS PERSONALES</h2>
+                            <h2 class="bebas card-title">EL GANADERO</h2>
 
                           </div>
-                          </a>
+                          <!-- </a> -->
                         </div>
                         <div class="card">
-                          <a href="#">
-                          <img src="assets/img/contability/asesoria.png" class="card-img-top img-fluid" alt="...">
+                          <!-- <a href="#"> -->
+                          <img src="assets/img/contability/sis1.jpg" class="card-img-top img-fluid" alt="...">
                           <div class="card-body">
-                            <h2 class="bebas card-title">AESORIA CONTABLE Y TRIBUTARIA</h2>
+                            <h2 class="bebas card-title">DANNY PANADERIA</h2>
 
                           </div>
-                          </a>
+                          <!-- </a> -->
                         </div>
                       </div>
-                    <div class="card-group">
+                      <!-- <div class="card-group">
                         <div class="card">
                           <a href="#">
                           <img src="assets/img/contability/iess.png" class="card-img-top" alt="...">
@@ -174,8 +224,44 @@
                           </a>
                         </div>
                         
-                      </div>
+                      </div> -->
                     
+                </div>
+
+
+                <div class="container" style="padding-top:5vh">
+                  <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:#162b4e;">
+                    SERVICIOS CONTABLES, FINANCIEROS Y AUDITORIAS
+                  </h1>
+                </div>
+
+                <div class="container" style="text-align:left;">
+                  <br>
+                  <br>
+                  <div class="row " style="justify-content: center;">
+                    <ul style="text-align:center">
+                     
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Contabilidad Externa: sociedades, naturales, PYMES, microempresa.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Tributación: mensuales, semestrales y anuales.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Declaración Impuesto a la renta.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Anexos: ATS, RDEP, APS, ICE, ADI.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Balances mensuales, anuales (Estados Financieros).</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Declaraciones Patrimoniales.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Personal (Contratos, nóminas, y todas las obligaciones).</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Manejo de Nómina.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Seguridad Ocupacional.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Inventarios, costos, evaluación de activos fijos.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  NIIFS</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Devolución IVA (tercera edad-discapacitados).</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Anexos de gastos personales y juridicos.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Sistema Contable</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Mantenimiento de computadoras y ventas de equipos.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  Reclamos Tributarios y Notificaciones SRI.</h5>
+                      <h5><i class="fa fa-check" aria-hidden="true" style="font-size:0.9rem"></i>  SRI, SUPERINTENDENCIA DE COMPAÑIAS, IESS, MUNICIPIO, MINISTERIO DE TRABAJO</h5>
+                      
+                    </ul>
+                  </div>
+                  
                 </div>
                 
 

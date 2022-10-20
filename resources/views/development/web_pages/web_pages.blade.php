@@ -88,7 +88,9 @@
       <div class="div">
         <a href="https://wa.me/593961119670?text=Hola%20necesito%20cotizar%20un%20proyecto%20web%20me%20ayuda%20con%20información%20por%20favor%20" class="btn-wsp" target="_blanck"> <i class="fab fa-whatsapp"></i> </a>
       </div>
-
+      
+      
+     
       <div class=" text-center container" style="padding-top:5vh; border:5px ">
           <div class="div text-center" style="; padding-bottom: 9vh">
               <div class="row " style=" text-align:center">
@@ -103,12 +105,14 @@
                 <div class="row" >
                   <div class=" col-sm-12 col-md-6 " style="display:flex; align-items:center;justify-content: center;">
                     <p>
-                      En la actualidad, un negocio que no se encuentra en Internet es como si no existiera, así de simple. Por eso es vital que tu empresa este presente en Internet y tenga una página web, para que tus clientes o futuros clientes estén siempre informados. 
-                      Además una página web Es la primera imagen que el cliente se lleva de tu negocio. Está demostrado que un cliente que está comparando en varias empresas, escogerá a la empresa que tiene presencia online ya que transmite más prestigio y calidad.
+                      En la actualidad, un negocio que no se encuentra en Internet es como si no existiera, así de simple. Por eso es vital 
+                      que tu empresa este presente en Internet y tenga una página web, para que tus clientes o futuros clientes estén siempre informados. 
+                      Además una página web es la primera imagen que el cliente se lleva de tu negocio. Está demostrado que un cliente que está 
+                      comparando en varias empresas, escogerá a la empresa que tiene presencia online ya que transmite más prestigio y calidad.
                       <br/><br/>
                       <br/>
                     
-                      <b>Contactos: 0961119670 -  </b>
+                      <b>Contactos: 0961119670 - 0984111628  </b>
                       
                     </p>               
                     
@@ -204,14 +208,14 @@
               
                     
                     <p class="card-text"><i class="fas fa-check"></i> <b>One Page</b> con 4 opciones de menú</p>
-                    <p class="card-text"><i class="fas fa-check"></i> Desarrollo a travez de <b>código</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Desarrollo a través de <b>código</b></p>
                     <p class="card-text"><i class="fas fa-check"></i> Adaptativo a <b>dispositivos móviles</b></p>
                     <p class="card-text"><i class="fas fa-check"></i> <b>Galería</b> de imágenes</p>
                     <p class="card-text"><i class="fas fa-check"></i> <b>Personalización</b> de la página web</p>
                     <p class="card-text"><i class="fas fa-check"></i> Formulario de <b>Contacto</b></p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Mapa</b> de ubicación</p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Banner</b> transitorio</p>
-                    <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat via</b> Whatsapp</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat vía</b> Whatsapp</p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Dominio</b> de primer nivel (www.tunegocio.com) </p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Correo </b> Empresarial</p>
                     <p class="card-text"><i class="fas fa-check"></i> Asesoria en <b> Marketing Dígital </b> </p>
@@ -234,14 +238,14 @@
               
                     
                     <p class="card-text"><i class="fas fa-check"></i> Menú de <b>4 pestañas</b></p>
-                    <p class="card-text"><i class="fas fa-check"></i> Desarrollo a travez de <b>código</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Desarrollo a través de <b>código</b></p>
                     <p class="card-text"><i class="fas fa-check"></i> Adaptativo a <b>dispositivos móviles</b></p>
                     <p class="card-text"><i class="fas fa-check"></i> <b>Galería</b> de imágenes</p>
                     <p class="card-text"><i class="fas fa-check"></i> <b>Personalización</b> de la página web</p>
                     <p class="card-text"><i class="fas fa-check"></i> Formulario de <b>Contacto</b></p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Mapa</b> de ubicación</p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Banner</b> transitorio</p>
-                    <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat via</b> Whatsapp</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat vía</b> Whatsapp</p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Dominio</b> de primer nivel (www.tunegocio.com) </p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Correo </b> Empresarial</p>
                     <p class="card-text"><i class="fas fa-check"></i> Asesoria en <b> Marketing Dígital </b></p>
@@ -265,8 +269,8 @@
               
                     
                     <p class="card-text"><i class="fas fa-check"></i> Menú de <b>6 pestañas</b></p>
-                    <p class="card-text"><i class="fas fa-check"></i> Desarrollo a travez de <b>código</b></p>
-                    <p class="card-text"><i class="fas fa-check"></i> Administracionn por parte del <b>cliente</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Desarrollo a través de <b>código</b></p>
+                    <p class="card-text"><i class="fas fa-check"></i> Administración por parte del <b>cliente</b></p>
                     <p class="card-text"><i class="fas fa-check"></i> Página web <b>siempre actualizada</b></p>
                     <p class="card-text"><i class="fas fa-check"></i> Adaptativo a <b>dispositivos móviles</b></p>
                     <p class="card-text"><i class="fas fa-check"></i> <b>Galería</b> de imágenes</p>
@@ -274,7 +278,7 @@
                     <p class="card-text"><i class="fas fa-check"></i> Formulario de <b>Contacto</b></p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Mapa</b> de ubicación</p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Banner</b> transitorio</p>
-                    <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat via</b> Whatsapp</p>
+                    <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat vía</b> Whatsapp</p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Dominio</b> de primer nivel (www.tunegocio.com) </p>
                     <p class="card-text"><i class="fas fa-check"></i><b> Correo </b> Empresarial</p>
                     <p class="card-text"><i class="fas fa-check"></i> Asesoria en <b> Marketing Dígital </b></p>
@@ -297,8 +301,8 @@
             
                   
                   <p class="card-text"><i class="fas fa-check"></i> Menú de <b>7 pestañas</b></p>
-                  <p class="card-text"><i class="fas fa-check"></i> Desarrollo a travez de <b>código</b></p>
-                  <p class="card-text"><i class="fas fa-check"></i> Administracionn por parte del <b>cliente</b></p>
+                  <p class="card-text"><i class="fas fa-check"></i> Desarrollo a través de <b>código</b></p>
+                  <p class="card-text"><i class="fas fa-check"></i> Administración por parte del <b>cliente</b></p>
                   <p class="card-text"><i class="fas fa-check"></i> Página web <b>siempre actualizada</b></p>
                   <p class="card-text"><i class="fas fa-check"></i> Adaptativo a <b>dispositivos móviles</b></p>
                   <p class="card-text"><i class="fas fa-check"></i> <b>Galería</b> de imágenes</p>
@@ -306,7 +310,7 @@
                   <p class="card-text"><i class="fas fa-check"></i> Formulario de <b>Contacto</b></p>
                   <p class="card-text"><i class="fas fa-check"></i><b> Mapa</b> de ubicación</p>
                   <p class="card-text"><i class="fas fa-check"></i><b> Banner</b> transitorio</p>
-                  <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat via</b> Whatsapp</p>
+                  <p class="card-text"><i class="fas fa-check"></i><b> Botón de chat vía</b> Whatsapp</p>
                   <p class="card-text"><i class="fas fa-check"></i><b> Dominio</b> de primer nivel (www.tunegocio.com) </p>
                   <p class="card-text"><i class="fas fa-check"></i><b> Correo </b> Empresarial</p>
                   <p class="card-text"><i class="fas fa-check"></i> Asesoria en <b> Marketing Dígital </b></p>

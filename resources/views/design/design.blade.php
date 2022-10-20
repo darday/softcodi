@@ -109,7 +109,7 @@
                       El diseño gráfico no hay que dejarlo en un segundo plano. Es mucho más que la parte visual de una marca, es parte de una gran estrategia de marketing corporativo que consigue acercar la empresa a un público determinado.
                       <br/>
                     
-                      <b>Contactos: 0961119670 -  </b>
+                      <b>Contactos: 0961119670 </b>
                       
                     </p>               
                     
@@ -135,47 +135,47 @@
       <div class="container text-center">
 
         <div class="container" style="padding-top:5vh">
-          <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:white">NUESTROS SERVICIOS</h1>
+          <h1 class="bebas" style="background-color: #f45f13; padding-top:2vh; padding-bottom:2vh ; color:white">ESCRÍBENOS Y COTIZA TU PROYECTO</h1>
         </div>
 
         <div class="container" style="padding-top: 5vh">
           <div class="row row-cols-1 row-cols-md-4 g-4">
             <div class="col">
               <div class="card h-100" style="border: 0em">
-                <i class="fas fa-laptop fa-7x"></i>
+                <i class="fas fa-id-card fa-7x"></i>
                 <div class="card-body">
                   
-                  <h5 class="card-title">Páginas web</h5>
+                  <h5 class="card-title">Tarjetas de Presentación</h5>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card h-100" style="border: 0em">
-                <i class="fas fa-code fa-7x"></i>
+                <i class="fas fa-book-open fa-7x"></i>
                 <div class="card-body">
-                  <h5 class="card-title">Desarrollo de software</h5>
+                  <h5 class="card-title">Diseño de Revistas y Catálogos</h5>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card h-100" style="border: 0em">
-                <i class="fas fa-shopping-cart fa-7x"></i>                        <div class="card-body">
-                  <h5 class="card-title">Desarrollo de E-commerce</h5>
+                <i class="fas fa-marker fa-7x"></i>                        <div class="card-body">
+                  <h5 class="card-title">Diseño de Marcas (Branding)</h5>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card h-100" style="border: 0em">
-                <i class="fas fa-mobile-alt fa-7x"></i>
+                <i class="fas fa-file-contract fa-7x"></i>
                 <div class="card-body">
-                  <h5 class="card-title">Desarrollo de Apps</h5>
+                  <h5 class="card-title">Banners y Afiches</h5>
                 </div>
               </div>
             </div>
           </div>            
         </div>
         <br/>
-        <button type="button" class="btn btn-secondary btn-lg">Ver soluciones</button>
+        {{-- <button type="button" class="btn btn-secondary btn-lg">Ver soluciones</button> --}}
 
       </div>
 

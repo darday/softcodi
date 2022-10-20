@@ -5,6 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Softcodi</title>
+        <link rel="icon"  type="image/png" href="assets/img/logos/softcodi-azul.png">
+
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -53,7 +55,7 @@
                 @include('components/carousel/carousel')
             </div>
 
-            <div class="container" style="padding-top: 5vh; width:88%; height:100vh; ">               
+            <div class="container" style="padding-top: 5vh; width:88%; ">               
 
                 {{-- INFO DE SOFTCODI --}}
                 <div class="row">
@@ -63,8 +65,9 @@
                     <div class="col-12 col-md-5">
                         <br/>
                         <br/>
-                        <p style="text-align: center">SOFTCODI es una empresa de soluciones tecnológicas, ayudamos a tu empresa a crecer a travez de marketing digital, promoción de tus productos en tu própia página web
-                            , creación de tu marca empresarial (BRANDING) y ademas brindamos soporte tecnico a todos tus ordenadores.
+                        <p style="text-align: center">SOFTCODI es una empresa de soluciones tecnológicas, ayudamos a tu empresa a crecer 
+                            mediante un plan de marketing digital, promoción de tus productos en tu propia página web
+                            , creación de tu marca empresarial (BRANDING) y además  brindamos soporte técnico a todos tus ordenadores.
                         </p>
                     </div>
                     <div class="col-md-1">
@@ -72,9 +75,7 @@
                     </div>
                     <div class="col-12 col-md-5 text-center" style="text-align: left">
                         <img src="assets/img/logos/softcodi-azul.png"   style="width:40%; "  alt="..."/>
-                        {{-- <p style="textAlign:center">SOFTCODI es una empresa de soluciones tecnológicas, ayudamos a tu empresa a crecer a travez de marketing digital, promoción de tus productos en tu própia página web
-                            , creación de tu marca empresarial (BRANDING) y ademas brindamos soporte tecnico a todos tus ordenadores.
-                        </p>         --}}
+                      
                     </div>
         
                 </div>
@@ -87,30 +88,30 @@
                     </div>
                 </div>
 
-                <div class="text-center">
+                <div class="row text-center">
                     @include('principal/services')
 
                 </div>
 
+                {{-- NUESTROS CLIENTES  --}}
+                
+                <div class="row" style="padding-top: 5vh; padding-bottom:0vh">
+                    <div class="col-12 text-center">
+                        <h1>CLIENTES SOFTCODI</h1>
+                    </div>
+                </div>
 
-               
+                <div class="row text-center" style="padding-bottom: 10vh">
+                    @include('principal/clients')
 
-
-
+                </div>
 
             </div>
-
-
-
-
-
-
-
-           
-
             <div>
                 @include('components/footer/footer')
             </div>
+
+          
 
 
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>

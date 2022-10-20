@@ -21,11 +21,11 @@
         
           <div class=" col-md-6 col-lg-6  col-xl-6 " style="color:white">       
               <i class="fa fa-map-marker" style="color:white"></i>   Departamento Desarrollo: 0961119670<br>        
-              <i class="fa fa-envelope"  style="color:white"></i> Departamento Mantenimiento: 0961119670<br>       
+              <i class="fa fa-envelope"  style="color:white"></i> Departamento Mantenimiento: 0984111628<br>       
           </div>
           <div class=" col-md-4 col-lg-6 col-xl-6 col-xl-6 " style="color:white">
                       
-              <i class="fa fa-phone"  style="color:white"></i> Departamento Contabilidad: 0961119670<br>       
+              <i class="fa fa-phone"  style="color:white"></i> Departamento Contabilidad: 0993786135<br>       
               <i class="fa fa-phone"  style="color:white"></i> Departamento Diseño: 0961119670
           </div>
   

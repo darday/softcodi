@@ -9,7 +9,7 @@
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active" data-bs-interval="4000"  style="background-image: url('assets/img/carousel/desarrollo.jpg') ;  ">
         <div style="background-color:rgba(43, 39, 39, 0.397) ; width:100%; height:100vh" >
-          <div class="text_cent_img animated zoomIn"><h1 class="tit-sob-img" >DESARROLLO DE PÁGINAS WEB Y APLICACIONES MOVILES <br>PARA TU EMPRESA</h1></div>
+          <div class="text_cent_img animated zoomIn"><h1 class="tit-sob-img" >DESARROLLO DE PÁGINAS WEB Y APLICACIONES MÓVILES <br>PARA TU EMPRESA</h1></div>
           <div class="text_cent_img2 animated zoomIn"><p class="tit-sob-img2" style="color: white">Soluciones Empresariales</p></div>
         </div>
               
@@ -17,11 +17,11 @@
 
       <div class="carousel-item" data-bs-interval="4000" style="background-image: url('assets/img/carousel/contabilidad.jpg') ">
         <div style=" width:100%; height:100vh; background-color:rgba(43, 39, 39, 0.397)" >
-          <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >SISTEMAS DE INVENTARIO Y<br>ASESORIA CONTABLE PARA TU EMPRESA</h1></div>
+          <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >SISTEMAS DE INVENTARIO Y<br>ASESORÍA CONTABLE PARA TU EMPRESA</h1></div>
           <div class="text_cent_img2 animated zoomIn"><p class="tit-sob-img2" style="color: white">Soluciones Empresariales</p></div>
         </div>
       </div>
-      <div class="carousel-item"  data-bs-interval="4000" style="background-image: url('assets/img/carousel/diseño.jpg') ">
+      <div class="carousel-item"  data-bs-interval="4000" style="background-image: url('assets/img/carousel/disenio.jpg') ">
         
         <div style=" width:100%; height:100vh" >
           <div style=" width:100%; height:100vh; background-color:rgba(43, 39, 39, 0.397)" >

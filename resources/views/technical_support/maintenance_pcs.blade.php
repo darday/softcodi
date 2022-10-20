@@ -76,9 +76,14 @@
 
       <div class="header-tit" style="background-image: url('assets/img/carousel/mantenimiento1.jpg') ">
           <div style=" width:100%; height:70vh; background-color:rgba(43, 39, 39, 0.397)" >
-              <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >MANTENIMIENTO DE PC's & LAPTOPS SOFTCODI<br></div>
+              <div class="text_cent_img animated zoomIn" style=""><h1 class="tit-sob-img" >MANTENIMIENTO DE PC's & LAPTOPS SOFTCODI<br></h1></div>
           </div>
       </div>
+
+      <div class="div">
+        <a href="https://wa.me/593984111628?text=Hola%20necesito%20ayuda%20contable%20me%20ayuda%20con%20información%20por%20favor%20" class="btn-wsp" target="_blanck"> <i class="fab fa-whatsapp"></i> </a>
+      </div>
+
 
       <div class=" text-center container" style="padding-top:5vh; border:5px ">
           <div class="div text-center" style="; padding-bottom: 9vh">
@@ -96,8 +101,8 @@
                     <p>
                     ¿Tu computadora está lenta?   
                     ¿Tu computadora necesita reparación?   
-                    ¿Creés que no tienes suficiente espacio para almacenar tu información?
-                    Softcodi está para dar solución a todos tus problemas ténicos, entregandote un producto de calidad
+                    ¿Crees que no tienes suficiente espacio para almacenar tu información?
+                    Softcodi está para dar solución a todos tus problemas ténicos, entregándote un producto de calidad
                     y garantizado.  
                     <br/><br/>
                       <br/>
@@ -191,7 +196,7 @@
             <br>
             <br>           
             <center> <img src="assets/img/logos/softcodi-azul.png"   style="width:10%; "> </center>
-            <center> <div class="tit-sob-img" style="color:#FDFEFE" ><h1>¿SABIAS QUÉ?</h1></div>  </center>
+            <center> <div class="tit-sob-img" style="color:#FDFEFE" ><h1>¿SABÍAS QUÉ?</h1></div>  </center>
             <center><div class=" col-md-8 " style="color:#FDFEFE; display:flex; align-items:center;justify-content: center;">
               <h3>
                 Sabías que tu computadora necesita un mantenimiento cada 6 meses para un manejo eficaz 
