@@ -5,6 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Softcodi</title>
+        <link rel="icon"  type="image/png" href="assets/img/logos/softcodi-azul.png">
+
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -93,8 +95,7 @@
                     <div class="row" >
                         <div class=" col-sm-12 col-md-6 " style="display:flex; text-align: justify;">
                             <p>
-                                Egresado de la carrera de Ingenieria en sistemas de la Escuela Superior Politécnica de Chimborazo. 
-                                Productor audiovisual.
+                                Ingeniero en Software de la Escuela Superior Politécnica de Chimborazo. 
                                 <br><br>
                                 Desarrollador de la página web del Congreso Internacional de Innovación y Emprendimiento INNOVAEC 
                                 2019 el cual se realizó en la Escuela Superior Politécnica de Chimborazo a finales del mes de 
