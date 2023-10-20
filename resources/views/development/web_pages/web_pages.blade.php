@@ -88,7 +88,7 @@
       </div>
 
       <div class="div">
-        <a href="https://wa.me/593961119670?text=Hola%20necesito%20cotizar%20un%20proyecto%20web%20me%20ayuda%20con%20información%20por%20favor%20" class="btn-wsp" target="_blanck"> <i class="fab fa-whatsapp"></i> </a>
+        <a href="https://wa.me/593984111628?text=Hola%20necesito%20cotizar%20un%20proyecto%20web%20me%20ayuda%20con%20información%20por%20favor%20" class="btn-wsp" target="_blanck"> <i class="fab fa-whatsapp"></i> </a>
       </div>
       
       

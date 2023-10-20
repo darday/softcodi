@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ClientsController;
 use App\Http\Controllers\ContabilityController;
 use App\Http\Controllers\DevelopmentController;
 use App\Http\Controllers\TechnicalSupportController;
@@ -29,5 +30,7 @@ Route::get('/mantenimiento-pcs', [TechnicalSupportController::class, 'index'])->
 Route::get('/ventas-repuestos', [SalesPcController::class, 'index'])->name('sales_accessories');
 Route::get('/equipo-de-trabajo', [TeamsWorkController::class, 'index'])->name('teamsw');
 Route::get('/diseño-grafico', [DesignController::class, 'index'])->name('design');
+
+Route::get('/sorteos', [ClientsController::class, 'index'])->name('next_draw');
 
 
