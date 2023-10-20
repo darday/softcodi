@@ -513,7 +513,7 @@
           <tr>
             <th scope="col">#</th>
             <th scope="col">Cliente</th>
-            <th scope="col">Servicio</th>
+            <th scope="col">Adquisición</th>
           </tr>
         </thead>
         <tbody>
@@ -521,7 +521,7 @@
           <tr>
             <th scope="row">{{ $loop->iteration }}</th>
             <td>{{ $client->name . ' ' . $client->last_name }}</td>
-            <td>{{ $client->service_product }}</td>
+            <td>{{ 'Adquiere '.$client->sale_type }}</td>
           </tr>
           <!-- Otros campos del cliente -->
           @endforeach

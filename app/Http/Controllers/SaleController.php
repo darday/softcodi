@@ -2,11 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\clients;
+use App\Models\sale;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\DB;
 
-class ClientsController extends Controller
+class SaleController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -15,12 +14,7 @@ class ClientsController extends Controller
      */
     public function index()
     {
-        $clients = DB::table('clients')
-            ->join('sales', 'clients.client_id', '=', 'sales.client_id')
-            ->select('clients.*', 'sales.*')
-            ->get();
-
-        return view('draw.draw', ['clients' => $clients]);
+        //
     }
 
     /**
@@ -47,10 +41,10 @@ class ClientsController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\clients  $clients
+     * @param  \App\Models\sale  $sale
      * @return \Illuminate\Http\Response
      */
-    public function show(clients $clients)
+    public function show(sale $sale)
     {
         //
     }
@@ -58,10 +52,10 @@ class ClientsController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\clients  $clients
+     * @param  \App\Models\sale  $sale
      * @return \Illuminate\Http\Response
      */
-    public function edit(clients $clients)
+    public function edit(sale $sale)
     {
         //
     }
@@ -70,10 +64,10 @@ class ClientsController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\clients  $clients
+     * @param  \App\Models\sale  $sale
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, clients $clients)
+    public function update(Request $request, sale $sale)
     {
         //
     }
@@ -81,10 +75,10 @@ class ClientsController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\clients  $clients
+     * @param  \App\Models\sale  $sale
      * @return \Illuminate\Http\Response
      */
-    public function destroy(clients $clients)
+    public function destroy(sale $sale)
     {
         //
     }
