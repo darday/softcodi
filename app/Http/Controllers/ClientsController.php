@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\clients;
+use App\Models\gift_softcodi;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
@@ -18,9 +19,20 @@ class ClientsController extends Controller
         $clients = DB::table('clients')
             ->join('sales', 'clients.client_id', '=', 'sales.client_id')
             ->select('clients.*', 'sales.*')
+            ->where('status', '=', 1)
             ->get();
 
-        return view('draw.draw', ['clients' => $clients]);
+        $gift = gift_softcodi::orderBy('draw_date', 'desc')->first();
+
+        return view('gift.gift', ['clients' => $clients,'gift'=>$gift]);
+    }
+
+    public function index_clients()
+    {
+        $clients = DB::table('clients')->get();
+
+        return view('admin.clients.clients', ['clients' => $clients]);
+
     }
 
     /**
