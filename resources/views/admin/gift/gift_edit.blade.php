@@ -543,7 +543,7 @@
             <div class="col-6">
               <div class="mb-3">
                 <label for="exampleInputPassword1" class="form-label">Premio que ganó</label>
-                <input type="text" class="form-control" name="name_gift_last_draw" placeholder="" aria-label="Username" aria-describedby="basic-addon1">
+                <input type="text" class="form-control" value="{{$gift->name_gift_last_draw}}" name="name_gift_last_draw" placeholder="" aria-label="Username" aria-describedby="basic-addon1">
               </div>
             </div>
             <div class="col-6">

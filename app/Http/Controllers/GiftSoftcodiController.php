@@ -152,10 +152,10 @@ class GiftSoftcodiController extends Controller
         if ($request->hasFile('img_gift_draw')) {
             $gift =  gift_softcodi::where('gift_id', $request->gift_id)->firstOrFail();
             Storage::delete('public/' . $gift->img_gift_draw);
-            // $path1 = $request->img_gift_draw->store('catalogue', 'public');
+            // $path1 = $request->img_gift_draw->store('gift_image', 'public');
             // $data['img_gift_draw'] = $path1;
             $name_img = Str::random(10) . $request->file('img_gift_draw')->getClientOriginalName();
-            $ruta = storage_path() . '/app/public/catalogue/' . $name_img;
+            $ruta = storage_path() . '/app/public/gift_image/' . $name_img;
             $img = Image::make($request->file('img_gift_draw'));
             $img->orientate();
             $img->resize(1200, null, function ($constraint) {
@@ -164,16 +164,16 @@ class GiftSoftcodiController extends Controller
             $img->destroy();
 
 
-            $path1 = 'catalogue/' . $name_img;
+            $path1 = 'gift_image/' . $name_img;
             $data['img_gift_draw'] = $path1;
         }
         if ($request->hasFile('img_gift_winner')) {
             $gift =  gift_softcodi::where('gift_id', $request->gift_id)->firstOrFail();
             Storage::delete('public/' . $gift->img_gift_winner);
-            // $path2 = $request->img_gift_winner->store('catalogue', 'public');
+            // $path2 = $request->img_gift_winner->store('gift_image', 'public');
             // $data['img_gift_winner'] = $path2;
             $name_img = Str::random(10) . $request->file('img_gift_winner')->getClientOriginalName();
-            $ruta = storage_path() . '/app/public/catalogue/' . $name_img;
+            $ruta = storage_path() . '/app/public/gift_image/' . $name_img;
             $img = Image::make($request->file('img_gift_winner'));
             $img->orientate();
             $img->resize(1200, null, function ($constraint) {
@@ -182,7 +182,7 @@ class GiftSoftcodiController extends Controller
             $img->destroy();
 
 
-            $path2 = 'catalogue/' . $name_img;
+            $path2 = 'gift_image/' . $name_img;
             $data['img_gift_winner'] = $path2;
         }
 
